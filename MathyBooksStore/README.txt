@@ -37,4 +37,9 @@ on the first project instead of MathysBooks.DataAccess
 12:19 Modify views-shared-Error.cshtml file but I have no idea of what I should modify exactly
 12:23 Im just going to move on the next part, adding the project reference in the first project
 MathyBooksStore and select MathysBooks.DataAccess and MathyBooks.Models
+12:30 Rename Models folder to ViewModels in the MathysBooks.Models project
+12:32 Inside the ErrorViewModels.cs file I changed the namespace to .Models.ViewModels
+12:33 Build the project
+12:38 I just noticed that the building failed so let's check what's going on...
+12:56 I guess I'm gonna fix this tomorrow in class
 
