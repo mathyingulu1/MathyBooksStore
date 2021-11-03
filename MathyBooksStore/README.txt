@@ -46,4 +46,5 @@ MathyBooksStore and select MathysBooks.DataAccess and MathyBooks.Models
 using MathyBooksStore.DataAccess.Data;
 10:14 Just added a static class in MathyBooks.Utility
 10:25 add a customer areas to area
-10:31 not running
+10:35 add a new amin area in areas
+10:31 my project is not running
