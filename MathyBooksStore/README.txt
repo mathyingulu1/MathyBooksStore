@@ -10,3 +10,12 @@ repository
 and scripts from the CSS_JS.txt file located on blackboard
 8:45 so moving on, im gonna add in the same _yout.cshtml page a dropdwon to the navbar
 8:50 Run the app and notice the change...all good
+9:00 Adding 3 new projects(.NET Core class library) to the application
+9:18 had hard time finding the .NET Core claass library ohh God...
+finally
+9:20 done, just created the 3 projects now what next...let's find out
+9:23 copy the dat folder from the first project MAthyBooksStore to the new project MathyBooks.DataAccess
+and delete the original one
+9:30 next install the Microsoft.EntityFrameworkCore.Relational and Core.SqlServer Packages
+but before to do that...
+9:31 Im gonna take a break
