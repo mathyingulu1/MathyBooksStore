@@ -1,4 +1,5 @@
-using MathyBooksStore.Data;
+//using MathyBooksStore.Data;
+using MathyBooksStore.DataAccess.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -61,7 +62,7 @@ namespace MathyBooksStore
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllerRoute(
+               endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
                 endpoints.MapRazorPages();

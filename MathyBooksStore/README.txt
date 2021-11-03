@@ -42,4 +42,6 @@ MathyBooksStore and select MathysBooks.DataAccess and MathyBooks.Models
 12:33 Build the project
 12:38 I just noticed that the building failed so let's check what's going on...
 12:56 I guess I'm gonna fix this tomorrow in class
-
+11/3/2021 9:59 just fix my first error, I had to modify the startup.cs service'AddContext' with using statement:
+using MathyBooksStore.DataAccess.Data;
+10:14 Just added a static class in MathyBooks.Utility
