@@ -45,3 +45,5 @@ MathyBooksStore and select MathysBooks.DataAccess and MathyBooks.Models
 11/3/2021 9:59 just fix my first error, I had to modify the startup.cs service'AddContext' with using statement:
 using MathyBooksStore.DataAccess.Data;
 10:14 Just added a static class in MathyBooks.Utility
+10:25 add a customer areas to area
+10:31 not running
