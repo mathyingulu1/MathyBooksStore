@@ -27,3 +27,14 @@ on the first project instead of MathysBooks.DataAccess
 11:44 run: Install-Package Microsoft.EntityFrameworkCore.SqlServer
 -version 5.0.11 MathysBooks.DataAccess, successfully installed.
 11:47 next I'm gonna Delete the migratiosn folder in the data folder
+11:56 Install NuGet Packages: Identity.EntityFrameworkCore
+11:57 In the PMC run the command: Install-Package Microsoft.AspNetCore.Identity.EntityFrameworkCore 
+-version 5.0.2 MathysBooks.DataAccess
+12:00 In the ApplicationDbContext.cs file in Data folder I just modify the namespace to reflect the Project
+12:05 Next, delete default Class1.cs file in all 3 projects
+12:07 Build the Project
+12:11 now im gonna move the models folder in to MathysBooks.Models and delete the original
+12:19 Modify views-shared-Error.cshtml file but I have no idea of what I should modify exactly
+12:23 Im just going to move on the next part, adding the project reference in the first project
+MathyBooksStore and select MathysBooks.DataAccess and MathyBooks.Models
+
