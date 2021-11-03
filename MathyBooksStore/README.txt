@@ -19,3 +19,11 @@ and delete the original one
 9:30 next install the Microsoft.EntityFrameworkCore.Relational and Core.SqlServer Packages
 but before to do that...
 9:31 Im gonna take a break
+11:40 I'm back...
+11:42: I was trying to figure out how to install the package and I think I just installed it
+on the first project instead of MathysBooks.DataAccess
+11:43 So, in the PMC I just run the following command: Install-Package Microsoft.EntityFrameworkCore.Relational 
+-version 5.0.11 MathysBooks.DataAccess and it worked
+11:44 run: Install-Package Microsoft.EntityFrameworkCore.SqlServer
+-version 5.0.11 MathysBooks.DataAccess, successfully installed.
+11:47 next I'm gonna Delete the migratiosn folder in the data folder
