@@ -6,6 +6,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Areas\Customer\Controllers\**" />
+    <Content Remove="Areas\Customer\Controllers\**" />
+    <EmbeddedResource Remove="Areas\Customer\Controllers\**" />
+    <None Remove="Areas\Customer\Controllers\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="5.0.8" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.8" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="5.0.8" />
@@ -22,9 +29,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\Customer\Controllers\" />
-    <Folder Include="Areas\Customer\Views\" />
-    <Folder Include="Areas\Admin\" />
+    <Folder Include="Areas\Admin\Controllers\" />
   </ItemGroup>
 
 </Project>

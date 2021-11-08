@@ -4,6 +4,7 @@
 10:03 we just add some breakpoint in the home controllers folder and run the app buh wasn't running we had to click on continue nd showed the privacy policy page
 10:15 just downloaded the solar bootswatch and copy it the bootstrap.css file in bootsrap folder
 10:22 go in the _layout file in the views folder and modify on line 7 and change the bootstrap.min.css to bootsrap
+
 2021-11-02 8:27 didn't save my last file so had to pull out everything from github by clonning the 
 repository
 8:29 now im going add to the _layout.cshtml page in the views folder the additional stylesheets
@@ -42,9 +43,25 @@ MathyBooksStore and select MathysBooks.DataAccess and MathyBooks.Models
 12:33 Build the project
 12:38 I just noticed that the building failed so let's check what's going on...
 12:56 I guess I'm gonna fix this tomorrow in class
+
 11/3/2021 9:59 just fix my first error, I had to modify the startup.cs service'AddContext' with using statement:
 using MathyBooksStore.DataAccess.Data;
 10:14 Just added a static class in MathyBooks.Utility
 10:25 add a customer areas to area
 10:35 add a new amin area in areas
 10:31 my project is not running
+
+11/8/2021 12:19 My project wasn't running so I had to back to slide and try to figured out what I've missed
+12:20 had to add the views file and all it's contents in customer/areas folder...I almost cry because of this
+12:22 Now let start with the Part 2 of the project
+12:24 Before to start the second part of the project, lemme make sre there are no errors by building my solution
+12:25 Gooddddd....now review the appsettings.json, all goodd
+12:26 so next, I'm gonna modify the database name in the appsettings.json on the default connection and save it
+12:30 and now adding the migrations in the PMC by running the following command: add-migration AddDefaultIdenityMigration
+12:32 The build succeeded but I got this message: Your target project 'MathyBooksStore' doesn't match your migrations assembly 'MathysBooks.DataAccess'. 
+Either change your target project or change your migrations assembly.
+Change your migrations assembly by using DbContextOptionsBuilder. E.g. options.UseSqlServer(connection, b => b.MigrationsAssembly("MathyBooksStore")). 
+By default, the migrations assembly is the assembly containing the DbContext.
+Change your target project to the migrations project by using the Package Manager Console's Default project drop-down list, or by executing "dotnet ef" from the directory containing the migrations project.
+12:43 I had to hange the default project to MathysBooks.DataAccess and run the the command again
+12:44 Done for today
