@@ -35,6 +35,7 @@ namespace MathyBooksStore
 
             services.AddDefaultIdentity<IdentityUser>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddScoped<IUnitofWork, UnitofWork>();
             services.AddControllersWithViews();
         }
 
