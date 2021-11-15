@@ -93,4 +93,7 @@ ICategoryRepository.cs and CategoryRepository.cs
 1:39 then modify the CategoryRepository Item but getting errors, I guess I need to modify
 or update the ApplicationDbContext.cs file but don't know how
 1:50 modify the ICategoryRepository.cs errors too.....arghhhhhhhhhhhh
-
+2:00 next add the a new interface in the IRepository folder called ISP_Call.cs
+2:05 then install the nuGet packaget for dapper
+2:15 now Im gonna add a new class in the Repository folder call SP_Call.cs
+2:20 going to bed gonna fix this and finish up everyhthing tomorrow
