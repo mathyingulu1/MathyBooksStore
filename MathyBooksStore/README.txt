@@ -76,5 +76,16 @@ Change your target project to the migrations project by using the Package Manage
 11:45 Then add a new class file to the .models projects and modify
 11:49 Add the Migration via PM console: add-migration AddCategoryToDb
 11:50 Build succeeded...great
+11:51 Break....
 12:40 Getting errors, still didn't figure it out yet....bruhhhhhhhh tired honestly
+12:45 still wondering how to update the dbcontext.cs I just created
+12:49 let's move on, I;ll go back to that later
+12:50 Add a new foldder in the MathysBooks.DataAccess and name it Repository
+12:52 then add an IRepository for the interface folder inside the Repository Folder
+12:55 now im gonna add a new item of type interface inside the IRepository folder
+1:00 just modify the IRepository.cs Item
+1:08 Implement the class that implements the Repository
+1:15 I just Included the using system in the Repository.cs Item and view the potential fixes 
+and implement the interface
+1:26 then modify the code to create the constructors and dependency injection (DI)
 
