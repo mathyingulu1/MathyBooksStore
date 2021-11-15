@@ -65,3 +65,10 @@ By default, the migrations assembly is the assembly containing the DbContext.
 Change your target project to the migrations project by using the Package Manager Console's Default project drop-down list, or by executing "dotnet ef" from the directory containing the migrations project.
 12:43 I had to hange the default project to MathysBooks.DataAccess and run the the command again
 12:44 Done for today
+
+2021-11-14 11:23 back to finish my project part 2
+11:25 Migration file name: 20211108174311_AddDefaultIdentityMigration.cs
+11:26 Now I'm reviewing the file for the SQL like-syntax,statements,columns, and primary key
+11:28 I've complete the database, now I'm gonna update the database in the PM console
+11:30 Build succeeded
+11:35 just run the app, no errors...let's move on to the next part
