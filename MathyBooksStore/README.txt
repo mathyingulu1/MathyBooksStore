@@ -88,4 +88,9 @@ Change your target project to the migrations project by using the Package Manage
 1:15 I just Included the using system in the Repository.cs Item and view the potential fixes 
 and implement the interface
 1:26 then modify the code to create the constructors and dependency injection (DI)
+1:35: create a repos repository inside the IRepository file and Repository file called
+ICategoryRepository.cs and CategoryRepository.cs
+1:39 then modify the CategoryRepository Item but getting errors, I guess I need to modify
+or update the ApplicationDbContext.cs file but don't know how
+1:50 modify the ICategoryRepository.cs errors too.....arghhhhhhhhhhhh
 
