@@ -97,3 +97,10 @@ or update the ApplicationDbContext.cs file but don't know how
 2:05 then install the nuGet packaget for dapper
 2:15 now Im gonna add a new class in the Repository folder call SP_Call.cs
 2:20 going to bed gonna fix this and finish up everyhthing tomorrow
+
+2021-11-14 12:00 Started to work on my errors but still can't fix it Im getting errors on my ApplicationDbContext.cs
+12:02 still tryna figure out how to fix it
+12:10 I try to move on to the next part and create an Interface inside the IRepository folder calle IUniofWork.cs
+12:13I updated the code inside the new interface created
+12:24 I created an Interface UnitofWork inside the Repository file and modify the code
+12:25 Im still getting bunch of errors, arghhhhhhhhh....dn't know how to fix it....God...

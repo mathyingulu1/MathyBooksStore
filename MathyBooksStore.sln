@@ -5,11 +5,16 @@ VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathyBooksStore", "MathyBooksStore\MathyBooksStore.csproj", "{D280C269-909B-4C21-B334-D829116EFE05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathysBooks.DataAccess", "MathysBooks.DataAccess\MathysBooks.DataAccess.csproj", "{D1BBA007-D32C-4B50-BF28-A81EFB465899}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathysBooks.DataAccess", "MathysBooks.DataAccess\MathysBooks.DataAccess.csproj", "{D1BBA007-D32C-4B50-BF28-A81EFB465899}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathysBooks.Models", "MathysBooks.Models\MathysBooks.Models.csproj", "{D865C07D-5BDC-4D77-B6D4-FB613B942F64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathysBooks.Models", "MathysBooks.Models\MathysBooks.Models.csproj", "{D865C07D-5BDC-4D77-B6D4-FB613B942F64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathysBooks.Utility", "MathysBooks.Utility\MathysBooks.Utility.csproj", "{12E4A572-28B2-4196-9B49-BCA283870F24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathysBooks.Utility", "MathysBooks.Utility\MathysBooks.Utility.csproj", "{12E4A572-28B2-4196-9B49-BCA283870F24}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0B9F3BF7-5276-4C19-8A3D-245AB02489F7}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

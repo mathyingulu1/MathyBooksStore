@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using MathysBooks.Models;
+using MathysBooks.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -13,6 +15,6 @@ namespace MathyBooksStore.DataAccess.Data
         {
         }
       
-
+        public DbSet<Category> Categories { get; set; }
     }
 }
