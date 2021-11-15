@@ -72,3 +72,9 @@ Change your target project to the migrations project by using the Package Manage
 11:28 I've complete the database, now I'm gonna update the database in the PM console
 11:30 Build succeeded
 11:35 just run the app, no errors...let's move on to the next part
+11:37 I just add a new table to the DB by creating a category model in MathysBooks.Models
+11:45 Then add a new class file to the .models projects and modify
+11:49 Add the Migration via PM console: add-migration AddCategoryToDb
+11:50 Build succeeded...great
+12:40 Getting errors, still didn't figure it out yet....bruhhhhhhhh tired honestly
+
