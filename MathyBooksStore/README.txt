@@ -130,3 +130,5 @@ or update the ApplicationDbContext.cs file but don't know how
 12:05 create a viewModel in the models project to hold the product object and select list
 12:07 im gonna modify the ProductVM class so it is public and install the Ms.AspNetCore.Mvc.ViewFeaturespackage.
 12:12 errors again arghh,...tired of this errors honestly
+
+2021-11-24 im still tryna fix the errors I made and I can't find my project on Github, arghhh...
