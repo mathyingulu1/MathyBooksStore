@@ -125,13 +125,15 @@ or update the ApplicationDbContext.cs file but don't know how
 2021-11-23 11:17 Im back to finish my project knowing that I still have an error in categorycontroller.cs
 11:18 still tryna figure out how to fix it
 11:52 next part Im gonna add the productController.cs to the areas/admin
-11:53 I still have errors on my categorycontroller.cs and I don't know how to fix it so im gonna keep going
+11:53 I still have errors on my categorycontroller.cs and I don't know how to fix it so im gonna keep going v
 11:54 Getting worse with my errors I have like 25 errors now, arghhhh...
 12:05 create a viewModel in the models project to hold the product object and select list
 12:07 im gonna modify the ProductVM class so it is public and install the Ms.AspNetCore.Mvc.ViewFeaturespackage.
 12:12 errors again arghh,...tired of this errors honestly
 
 2021-11-24 10:10 im still tryna fix the errors I made and I can't find my project on Github, arghhh...
-10;14 I was adding the productRepository.cs and Iproductrepository in the Repository file but you knw what...?
-10;15 still getting errors because this is not my original file
+10:14 I was adding the productRepository.cs and Iproductrepository in the Repository file but you knw what...?
+10:15 still getting errors because this is not my original file
 10:16 I had my original file in github but couldn't load all the the projects I don't get it
+
+ Part 3 : completion days and hours: 2days and 3hours
