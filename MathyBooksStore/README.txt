@@ -136,4 +136,4 @@ or update the ApplicationDbContext.cs file but don't know how
 10:15 still getting errors because this is not my original file
 10:16 I had my original file in github but couldn't load all the the projects I don't get it
 
- Part 3 : completion days and hours: 2days and 3hours
+ Part 3 : completion days and hours: 2days and 3hours 
