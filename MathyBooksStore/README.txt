@@ -108,3 +108,25 @@ or update the ApplicationDbContext.cs file but don't know how
 12:35 Add a controller in the Controller folder in the MathyBooksStore
 12:38 can't go further as I got bunches of errors so im gonna stop right here
 2021-11-15 not the end of the project buh can't fix it now so im gonna stop
+
+2021-11-21 4:00 PM I had to start the project all over again so I can see where I made those errors
+4:10 And I think my project wasn't running cuz I deleted the models file in the previous project
+4:19 now that I started all over again my project is finally running...oufff
+5:00 adding a new MVC Controller empty inside areas/Admin and named it Category.cs
+
+
+2021-11-23 12:31 adding a new class in the .Models project name Product with 2 errors of the previous project
+12:33 edit the file just created and build the blue print
+12:45 now im gonna add reference to the new products piece to the database in the ApplicationDbContext.cs file
+12:50 I just checked my Tables in SQl SOE and can't find the dbo products, categories and covertypes, arghh....
+12:53 add the IWebHostEnvironment call and its using statement to the Microsoft.AspNetCore.Hosting
+12:58 Im gonna stop right here and do the rest tomorrow, im tired arghhhh...
+
+2021-11-23 11:17 Im back to finish my project knowing that I still have an error in categorycontroller.cs
+11:18 still tryna figure out how to fix it
+11:52 next part Im gonna add the productController.cs to the areas/admin
+11:53 I still have errors on my categorycontroller.cs and I don't know how to fix it so im gonna keep going
+11:54 Getting worse with my errors I have like 25 errors now, arghhhh...
+12:05 create a viewModel in the models project to hold the product object and select list
+12:07 im gonna modify the ProductVM class so it is public and install the Ms.AspNetCore.Mvc.ViewFeaturespackage.
+12:12 errors again arghh,...tired of this errors honestly
