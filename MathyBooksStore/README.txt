@@ -137,3 +137,7 @@ or update the ApplicationDbContext.cs file but don't know how
 10:16 I had my original file in github but couldn't load all the the projects I don't get it
 
  Part 3 : completion days and hours: 2days and 3hours 
+
+2021-12-03 22:04 I was tryna start a new project as I got bunch of errors in this one but didn't work
+22:06 So Im gonna stick to this one and try to fix my errors
+
