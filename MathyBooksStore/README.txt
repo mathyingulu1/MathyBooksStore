@@ -145,4 +145,5 @@ or update the ApplicationDbContext.cs file but don't know how
 2021-12-04 11:40 create a viewModel in the Models project to hold the Product object
 11:42 select list for category and covertype
 11:45 Modify the class just created inside the viewModels in the Models folder
-
+11:50 Modify the ProductController so the IActionResult upSert calls to the ProductVM
+11:55 not my keyboard freezing...arghhh
