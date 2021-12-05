@@ -149,3 +149,4 @@ or update the ApplicationDbContext.cs file but don't know how
 11:55 not my keyboard freezing...arghhh
 11:57 adding an Index View and copy the Index.cshmtl code from views/Category and modify product
 12:00 just create a razor view called upsert.cshtml inside the views folder
+12:10 create the index.cshtml and Upsert.cshtml inside the coverType folder
