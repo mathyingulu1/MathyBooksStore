@@ -1,8 +1,8 @@
-﻿@model MathysBooks.Models.Category
+﻿@model MathysBooks.Models.CoverType
 
 @{
     Layout = "~/Views/Shared/_Layout.cshtml";
-    var title = "Create Category";
+    var title = "Create Cover Type";
 }
 
 <form method="post">
@@ -11,7 +11,7 @@
         @if (Model.Id != 0)
         {
             // edit
-            title = "Edit Category";
+            title = "Edit Cover Type";
         }
         <div class="col-12 border-bottom">
             <h2 class="text-primary">@title</h2>
