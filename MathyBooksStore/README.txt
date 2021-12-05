@@ -148,3 +148,4 @@ or update the ApplicationDbContext.cs file but don't know how
 11:50 Modify the ProductController so the IActionResult upSert calls to the ProductVM
 11:55 not my keyboard freezing...arghhh
 11:57 adding an Index View and copy the Index.cshmtl code from views/Category and modify product
+12:00 just create a razor view called upsert.cshtml inside the views folder
