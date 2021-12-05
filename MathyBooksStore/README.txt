@@ -151,4 +151,4 @@ or update the ApplicationDbContext.cs file but don't know how
 12:00 just create a razor view called upsert.cshtml inside the views folder
 12:10 create the index.cshtml and Upsert.cshtml inside the coverType folder and modify them
 12:24 Inside the Views folder create also index.cshtml and upsert.cshtml files inside the product folder
-
+12:26 I just modify the index.cshtml and upsert.cshmtl files
