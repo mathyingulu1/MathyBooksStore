@@ -140,4 +140,7 @@ or update the ApplicationDbContext.cs file but don't know how
 
 2021-12-03 22:04 I was tryna start a new project as I got bunch of errors in this one but didn't work
 22:06 So Im gonna stick to this one and try to fix my errors
+22:10 Went to bed because I'm pissed, can't fix my errors
 
+2021-12-04 11:40 create a viewModel in the Models project to hold the Product object
+11:42 select list for category and covertype
