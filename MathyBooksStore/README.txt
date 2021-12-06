@@ -173,3 +173,5 @@ and modify it
 9:50 adding void Update(CoverType coverType); inside ICoverTypeRepository.cs file
 9:55 public interface IProductRepository : IRepository<Product> inside the IProductRepository.cs file
 10:00 Most of the errors I got was because I didn't have the CoverType.cs file inside MathysBooks.Models
+10:10 got errors inside Product.cs file inside MathysBooks.Models project trying to fix it
+10:18 I just add using System.ComponentModel.DataAnnotations.Schema; and it worked
