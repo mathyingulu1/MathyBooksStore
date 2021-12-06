@@ -183,3 +183,5 @@ and modify it
 inside SD.cs file
 
 11:50 try to add-migration AddProductToDb but the build failed
+
+2021-12-06 11:13 Just Install the Microsot.AspNetCore.Mvc.ViewFeatures package.
