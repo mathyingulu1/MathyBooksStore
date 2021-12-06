@@ -159,5 +159,5 @@ or update the ApplicationDbContext.cs file but don't know how
 7:48 I think I've got bunch of errors cuz there was many files I didn't modify
 7:49 now I'm gonna modify the CoverTypeController.cs file too 
 7:52 copying the HomeController.cs file inside the Controllers folder in the Customer folder
-
+7:55 Inside the Views folder in the Customer folder, just modify the Index.cshtml file
 
