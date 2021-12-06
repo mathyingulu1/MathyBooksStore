@@ -182,3 +182,4 @@ and modify it
         public const string Proc_CoverType_Delete = "usp_DeleteCoverType";
 inside SD.cs file
 
+11:50 try to add-migration AddProductToDb but the build failed
