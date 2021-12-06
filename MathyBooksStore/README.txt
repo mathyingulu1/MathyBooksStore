@@ -175,3 +175,10 @@ and modify it
 10:00 Most of the errors I got was because I didn't have the CoverType.cs file inside MathysBooks.Models
 10:10 got errors inside Product.cs file inside MathysBooks.Models project trying to fix it
 10:18 I just add using System.ComponentModel.DataAnnotations.Schema; and it worked
+10:26 adding public const string Proc_CoverType_Create = "usp_CreateCoverType";
+        public const string Proc_CoverType_Get = "usp_GetCoverType";
+        public const string Proc_CoverType_GetAll = "usp_GetCoverTypes";
+        public const string Proc_CoverType_Update = "usp_UpdateCoverType";
+        public const string Proc_CoverType_Delete = "usp_DeleteCoverType";
+inside SD.cs file
+
