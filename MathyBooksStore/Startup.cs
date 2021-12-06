@@ -1,6 +1,6 @@
 using MathyBooksStore.DataAccess.Data;
-using MathyBooksStore.DataAccess.Repository;
-using MathyBooksStore.DataAccess.Repository.IRepository;
+using MathysBooks.DataAccess.Repository;
+using MathysBooks.DataAccess.Repository.IRepository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;

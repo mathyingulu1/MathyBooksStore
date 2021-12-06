@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Dapper;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,5 +15,13 @@ namespace MathysBooks.DataAccess.Repository.IRepository
         ISP_Call SP_Call { get; }
 
         void Save();
+    }
+
+    public class ISP_Call
+    {
+        public T OneRecord<T>(string proc_CoverType_Get, DynamicParameters parameter)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

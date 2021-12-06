@@ -1,6 +1,6 @@
 ﻿using MathysBooks.DataAccess.Repository.IRepository;
 using MathysBooks.Models;
-using MathysBooks.Models.ViewModels;
+using MathyBooksStore.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
