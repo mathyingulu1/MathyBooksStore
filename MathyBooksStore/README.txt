@@ -170,5 +170,5 @@ and modify it
 9:28 checking the Repository.cs file iniside the Repository folder and modify it
 9:32 modifying the SP_Call.cs inside the Repository folder
 9:38 adding covertype and product in the UnitOfWork.cs file inside Repository folder
-
+9:50 adding void Update(CoverType coverType); inside ICoverTypeRepository.cs file
 
