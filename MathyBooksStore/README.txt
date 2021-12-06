@@ -164,5 +164,7 @@ or update the ApplicationDbContext.cs file but don't know how
 and modify it
 8:18 im gonna create also the file called _EditAndBackToListButton.cshtml inside the same folder
 8:23 modify the CategoryRepository.cs file inside the Repository folder
+8:30 getting errors inside the CoverTypeRepository and CategoryRepository.cs files arghhh...
+
 
 
