@@ -163,4 +163,6 @@ or update the ApplicationDbContext.cs file but don't know how
 8:15 Create a file inside the Viewes/Shared folder called _CreateAndBackToListButton.cshtml
 and modify it
 8:18 im gonna create also the file called _EditAndBackToListButton.cshtml inside the same folder
+8:23 modify the CategoryRepository.cs file inside the Repository folder
+
 
