@@ -162,4 +162,5 @@ or update the ApplicationDbContext.cs file but don't know how
 7:55 Inside the Views folder in the Customer folder, just modify the Index.cshtml file
 8:15 Create a file inside the Viewes/Shared folder called _CreateAndBackToListButton.cshtml
 and modify it
-8:
+8:18 im gonna create also the file called _EditAndBackToListButton.cshtml inside the same folder
+
