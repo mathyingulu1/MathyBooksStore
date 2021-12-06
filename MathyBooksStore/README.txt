@@ -172,3 +172,4 @@ and modify it
 9:38 adding covertype and product in the UnitOfWork.cs file inside Repository folder
 9:50 adding void Update(CoverType coverType); inside ICoverTypeRepository.cs file
 9:55 public interface IProductRepository : IRepository<Product> inside the IProductRepository.cs file
+10:00 Most of the errors I got was because I didn't have the CoverType.cs file inside MathysBooks.Models
