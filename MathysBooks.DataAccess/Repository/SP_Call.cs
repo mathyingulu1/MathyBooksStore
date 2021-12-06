@@ -1,4 +1,4 @@
-﻿using MathysBooks.DataAccess.Data;
+﻿using MathyBooksStore.DataAccess.Data;
 using MathysBooks.DataAccess.Repository.IRepository;
 using Dapper;
 using Microsoft.Data.SqlClient;
@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MathysBooks.DataAccess.Repository
+namespace MathyBooksStore.DataAccess.Repository
 {
     public class SP_Call : ISP_Call
     {
