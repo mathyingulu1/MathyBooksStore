@@ -1,6 +1,6 @@
 ﻿using MathyBooksStore.DataAccess.Data;
 using MathysBooks.DataAccess.Repository.IRepository;
-using MathyBooksStore.Models;
+using MathysBooks.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;

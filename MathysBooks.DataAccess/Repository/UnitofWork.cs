@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MathyBooksStore.DataAccess.Repository
+namespace MathysBooks.DataAccess.Repository
 {
     public class UnitOfWork : IUnitOfWork
     {
